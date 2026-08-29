@@ -1,28 +1,50 @@
 # Watermelon Corp
 
-Open-source UI building blocks, registries, and product experiments from the Watermelon team.
+Open-source UI systems, registries, templates, and product experiments built in public by the Watermelon team.
 
-## What We Build
+## What We Maintain
 
-- `watermelon-platform`: the main platform behind `ui.watermelon.sh`
-- `watermellon-registry`: the component registry and installable UI assets
-- `watermelonHQ`: the org website and brand surface
-- `RN`, `inpso-gallery`, and `.github`: supporting projects and community infrastructure
+- [`watermelon-platform`](https://github.com/WatermelonCorp/watermelon-platform): the main experience behind `ui.watermelon.sh`
+- [`watermellon-registry`](https://github.com/WatermelonCorp/watermellon-registry): installable registry assets for components, blocks, dashboards, and templates
+- [`watermelonHQ`](https://github.com/WatermelonCorp): brand, marketing, and supporting surfaces across the org
+- [`.github`](https://github.com/WatermelonCorp/.github): shared community docs, defaults, and repo health files
 
 ## Start Here
 
-- Browse the main platform: `https://github.com/WatermelonCorp/watermelon-platform`
-- Browse the registry: `https://github.com/WatermelonCorp/watermellon-registry`
-- Visit the site: `https://ui.watermelon.sh`
+- Browse the live platform: [ui.watermelon.sh](https://ui.watermelon.sh)
+- Explore the main app repo: [WatermelonCorp/watermelon-platform](https://github.com/WatermelonCorp/watermelon-platform)
+- Explore the registry repo: [WatermelonCorp/watermellon-registry](https://github.com/WatermelonCorp/watermellon-registry)
+- Read the shared contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## Community
+## Contributing
 
-We are growing this organization in public and want the repos to stay friendly, useful, and contributor-friendly.
+We want contributing to feel approachable, not bureaucratic.
 
-- Read the contribution guide before opening a pull request.
-- Use the issue templates so bug reports and feature requests stay actionable.
-- Report security issues privately through the security policy.
+- Fixes, docs improvements, and polish PRs are always welcome
+- Larger feature work is easier to land when there is an issue or discussion first
+- Each repo documents its own setup, scripts, and content structure
+- Shared community expectations live in this org repo
 
-## Support The Work
+If you are new here, start with:
 
-If Watermelon helps your team, consider sponsoring the project through the repo Sponsor button or the links in our funding file.
+1. Pick the repo closest to the change you want to make.
+2. Read that repo's `README.md`.
+3. Follow that repo's `CONTRIBUTING.md`.
+4. Open a focused pull request with screenshots for UI changes.
+
+## Support Watermelon
+
+If Watermelon saves your team time or helps your product ship faster, you can support the work through the funding links surfaced on GitHub.
+
+- Use the `Sponsor` button on supported repos
+- Use the custom funding link in our GitHub funding config: [watermelon.sh](https://watermelon.sh)
+- Star the repos and share them with other builders
+
+## Community Standards
+
+- [Code of Conduct](https://github.com/WatermelonCorp/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/WatermelonCorp/.github/blob/main/SECURITY.md)
+- [Support](https://github.com/WatermelonCorp/.github/blob/main/SUPPORT.md)
+- [Governance](https://github.com/WatermelonCorp/.github/blob/main/GOVERNANCE.md)
+
+We are building in public and want the org to stay friendly, practical, and easy to contribute to.
