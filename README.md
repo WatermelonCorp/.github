@@ -2,6 +2,8 @@
 
 Open-source UI systems, registries, templates, and product experiments built in public by the Watermelon team.
 
+> Watermelon is built in public and shared free for the community. If it helps you, sponsoring keeps the work sustainable.
+
 ## What We Maintain
 
 - [`watermelon-platform`](https://github.com/WatermelonCorp/watermelon-platform): the main experience behind `ui.watermelon.sh`
@@ -34,11 +36,24 @@ If you are new here, start with:
 
 ## Support Watermelon
 
-If Watermelon saves your team time or helps your product ship faster, you can support the work through the funding links surfaced on GitHub.
+Watermelon is free to use, and we want to keep a big part of it that way for the community. Sponsorship helps us keep shipping without turning the project into paywalled clutter.
+
+You can support the work in a few simple ways:
 
 - Use the `Sponsor` button on supported repos
 - Use the custom funding link in our GitHub funding config: [watermelon.sh](https://watermelon.sh)
 - Star the repos and share them with other builders
+
+## Where Support Goes
+
+Support goes back into the open-source work itself:
+
+- designing and shipping more free components, blocks, dashboards, and templates
+- improving docs, examples, contributor workflows, and developer experience
+- covering infrastructure, deployment, and maintenance costs
+- making time for fixes, polish, accessibility, and long-term upkeep
+
+As of August 29, 2026, GitHub Sponsors onboarding for the `WatermelonCorp` organization is still being finalized, so the funding links are the clearest current path.
 
 ## Community Standards
 
